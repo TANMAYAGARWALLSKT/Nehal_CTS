@@ -217,6 +217,9 @@ body{
       transform: rotate(0deg);
   }
 }
+.rotateText{
+   animation: rotateText 10s linear infinite;
+}
 
 .text span {
   position: absolute;
