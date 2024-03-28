@@ -1,4 +1,6 @@
-
+::selection{
+  background-color: #927b2e;
+}
 @font-face {
   font-family:main;
   src: url(assests/brown_volky/BROWN\ VOLKY.ttf);
