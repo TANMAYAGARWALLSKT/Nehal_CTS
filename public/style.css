@@ -179,7 +179,7 @@ body{
   animation: rotate 10s linear infinite;
 }
 #circle:hover{
-  left:-15vw
+  left:-12vw
 
 }
 /* Add content styling as needed (e.g., headings, text, images) */
