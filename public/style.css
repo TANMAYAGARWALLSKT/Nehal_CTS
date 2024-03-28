@@ -175,9 +175,7 @@ body{
   transform: rotateY(180deg);
 }
 
-#circle{
-  animation: rotate 10s linear infinite;
-}
+
 #circle:hover{
   left:-12vw
 
