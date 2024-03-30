@@ -145,10 +145,11 @@ body{
 }
 #circle{
   position: fixed;
+  z-index: 999;
   top: 20vh;
   /* left: 50%; */
   left: -23vw;
-  background: url(assests/gradient-golden-luxury-frame-template/5691794.jpg);
+  /* background: url(assests/gradient-golden-luxury-frame-template/5691794.jpg); */
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
